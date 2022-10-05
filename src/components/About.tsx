@@ -13,7 +13,7 @@ const Wrapper = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 40vh;
   align-items: center;
 `;
 

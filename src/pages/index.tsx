@@ -67,7 +67,7 @@ const Modal = styled.div`
   height: 100vh;
   display: flex;
   background-color: #1f2833;
-  z-index: 1;
+  z-index: 40;
   position: fixed;
   right: 0;
   transition: 0.1s cubic-bezier(0.63, 0.53, 0.88, 0.74);

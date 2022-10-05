@@ -6,22 +6,24 @@ import styled from "styled-components";
 
 const ResponsiveNavContainer = styled.div`
   width: 100%;
-  margin-top: 3em;
   display: flex;
   flex-direction: column;
   justify-content: center;
   background: #1f2e45;
+  z-index: 40;
 `;
 
 const ResponsiveNav = styled.ul`
   list-style-type: none;
   margin: 0;
   padding: 0;
+  z-index: 10;
 `;
 
 const ResponsiveNavItem = styled.li`
   padding: 2em;
   text-align: center;
+  z-index: 10;
 `;
 
 const Link = styled.a`
@@ -29,6 +31,7 @@ const Link = styled.a`
   cursor: pointer;
   color: #ffffff;
   transition: 300ms;
+  z-index: 10;
 
   &:hover {
     color: #66fcf1;
