@@ -14,7 +14,7 @@ const Container = styled.div`
   top: 0px;
   position: fixed;
   width: 100%;
-  z-index: 10;
+  z-index: 50;
   background-color: #0F1C2D;
 `;
 
@@ -178,7 +178,7 @@ const Navbar = ({
           setSidebarOpen(!sidebarOpen);
         }}
       >
-        <StaticImage alt="" src="../images/menu.svg" />
+       {sidebarOpen ?  <StaticImage alt="" src="../images/close.svg" /> :  <StaticImage alt="" src="../images/menu.svg" />}
       </MenuIconButton>
     </Container>
   );

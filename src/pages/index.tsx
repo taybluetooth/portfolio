@@ -198,9 +198,9 @@ const IndexPage = () => {
               onMouseLeave={() => setSidebarOpen(false)}
               style={sidebarOpen ? { width: "70%" } : {}}
             >
-              <ResponsiveNavbar setSidebarOpen={setSidebarOpen} />
+              <ResponsiveNavbar  setSidebarOpen={setSidebarOpen} />
             </Modal>
-            <div style={sidebarOpen ? { filter: "blur(20px)" } : {}}>
+            <div style={sidebarOpen ? { filter: "blur(20px)", pointerEvents: "none" } : {}}>
               <Header />
               <About />
               <Work />
