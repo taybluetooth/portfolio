@@ -163,14 +163,14 @@ const Header = () => {
               in front-end and full stack application development. I am
               currently building intuitive solutions for{" "}
               <a
-                href="https://www.scrapprecycling.com/"
+                href="https://www.sky.com/"
                 style={{
                   textDecoration: "none",
                   cursor: "pointer",
                   color: "#66fcf1",
                 }}
               >
-                Scrapp
+                Sky
               </a>
               .
             </Description>
