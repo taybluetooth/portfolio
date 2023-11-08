@@ -123,18 +123,14 @@ const About = () => {
           <Description>
             Hi there! My name is Callum Taylor and I am a Software Engineer
             based in Edinburgh. <br></br>
-            <br></br>I am just finishing up on my master's degree in Software
-            Engineering after having achieved a 1st class in my honours degree
-            last semester. I studied Computer Science all throughout school,
+            <br></br>I recently just graduated Heriot-Watt University with a distinction in MEng Software Engineering.
+            I studied Computer Science all throughout school,
             working on small projects in my spare time.
             <br></br>
             <br></br>
-            As of 2022, I am currently working at Scrapp as a Software Engineer,
-            having worked there as an intern initially before being employed
-            full time. In that time I have had the opportunity to contribute
-            massively to projects such as the native mobile application, the
-            dashboard web app and other related projects myself and the tech
-            team have developed together.
+            As of 2023, I am currently working at Sky as a Frontend Developer, 
+            having been drawn to the opportunity to work on exciting new products 
+            and technologies that millions of people use daily.
           </Description>
           <ImageContainer>
             <StaticImage
