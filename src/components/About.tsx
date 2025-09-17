@@ -123,7 +123,7 @@ const About = () => {
           <Description>
             Hi there! My name is Callum Taylor and I am a Software Engineer
             based in Edinburgh. <br></br>
-            <br></br>I graduated from Heriot-Watt University with a Master's Degreee with Distinction in Software Engineering.
+            <br></br>I graduated from Heriot-Watt University with a Master's Degree with Distinction in Software Engineering.
             I studied Computer Science all throughout school,
             working on small projects in my spare time.
             <br></br>
