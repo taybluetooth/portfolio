@@ -103,8 +103,7 @@ const Contact = () => {
       >
         <Title>Get In Touch</Title>
         <Description>
-          I'm currently not actively looking for opportunities, but I am always
-          eager to hear them out! Come say hi! (I don't bite).
+          I am open to new opportunities. If you would like to discuss this further, please contact me using the button below.
         </Description>
         <Link href="mailto:callumtaylorbusiness@gmail.com?subject=Business Enquiry from Portfolio.">
           <Button>Say Hello</Button>
