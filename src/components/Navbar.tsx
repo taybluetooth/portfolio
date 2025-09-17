@@ -165,7 +165,7 @@ const Navbar = ({
             transition={{ duration: 0.25, delay: 0.4 }}
           >
             <NavItem>
-              <Link href="https://drive.google.com/file/d/1OoPCPqxgZHd7fqEjzNPNNQEUxd0PdrZH/view?usp=sharing">
+              <Link href="https://drive.google.com/file/d/1pya_Gr0AGzH0A5eVita1XVvS8jH1zO4F/view?usp=sharing">
                 <NavButton>Resume</NavButton>
               </Link>
             </NavItem>
